@@ -1,4 +1,4 @@
-# MiMC hashing implemented in circom
+# MiMC5Sponge hashing function implemented in circom
 
 MiMC5Sponge is a block cipher and hash function family designed specifically for SNARK applications.
 
